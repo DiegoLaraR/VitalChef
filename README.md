@@ -1,16 +1,8 @@
-# vital_chef
+# VitalChef  — Prototipo Funcional Móvil
 
-A new Flutter project.
+**Vital Chef** es una aplicación móvil desarrollada en **Flutter** que permite buscar recetas utilizando la API pública Spoonacular (por el momento), mostrando resultados con imágenes, títulos y detalles básicos. 
 
-## Getting Started
+Este avance documenta el análisis inicial, pruebas de la API, dependencias utilizadas y el primer flujo funcional de la aplicación.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Api seleccionadas (por el momento)
+https://spoonacular.com/food-api
