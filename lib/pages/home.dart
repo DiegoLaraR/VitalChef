@@ -11,8 +11,12 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: ,
-      
-      body: Center(child: Text('Home Page')));
+      appBar: AppBar(
+        automaticallyImplyLeading: false,
+        title: const Text('Vital Chef'),
+        actions: [SearchBar(leading: const Icon(Icons.search))],
+      ),
+      body: Center(),
+    );
   }
 }
